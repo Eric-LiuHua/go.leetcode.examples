@@ -1,7 +1,7 @@
 package tree
 
 import (
-	. "leetcode/example/nodes"
+	. "go.leetcode.examples/example/nodes"
 )
 
 /**
